@@ -1,2 +1,3 @@
 # rush_scroller
-Projet réalisé en un week-end dans le cadre d'un "rush" à EPITECH. Ce-dernier a été réalisé en CSFML.
+Project realised in a week-end during an EPITECH "rush". We had to use the CSFML language.
+You can move the ship with up and down arrows and you can shoot with the right arrow.
